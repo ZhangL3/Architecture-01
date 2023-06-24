@@ -71,3 +71,34 @@
     - 沟通 !!!
     - 保存最终的成果
 - UML (Unified Modeling Language)
+  - 静态图
+    - Use Case Diagrams!
+    - Object Diagrams
+    - Class Diagrams!
+    - Component Diagrams!
+    - Package Diagrams
+    - Deployment Diagrams!
+  - 动态图
+    - Collaboration Diagrams
+    - Sequence Diagrams!
+    - Activity Diagrams!
+    - State Diagrams!
+  - 通用元素
+
+    ![Alt text](umlCommonElement.png)
+    
+    ![Alt text](umlCommonRelations.png)
+
+    - 类之间的关系
+      - 依赖 vs 关联
+      - 组合 vs 聚合
+        - 组合起来的生命周期是一致的
+      - 继承 vs 实现
+        - 类 vs 接口
+  - 用例建模 (需求分析)
+
+    ![Alt text](umlCommonRelations.png)
+
+    - 角色可以是人也可以是系统
+    - 同中的每个元素都不是多余的，比如边界
+    - 复杂用例要分成多张图，案例的规模就是大概常用的规模（10 - 20 元素）
