@@ -97,7 +97,7 @@
         - 类 vs 接口
   - 用例建模 (需求分析)
 
-    ![Alt text](umlCommonRelations.png)
+    ![Alt text](useCaseModeling.png)
 
     - 角色可以是人也可以是系统
     - 同中的每个元素都不是多余的，比如边界
